@@ -1,0 +1,2 @@
+# futgoldtrader
+GitHub Pages
